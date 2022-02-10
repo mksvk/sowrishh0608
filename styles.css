@@ -42,6 +42,9 @@ body {
   font-family: "Montserrat";
   text-align: center;
 }
+img{
+  border-radius: 5%;
+}
 .lo{
   color: azure;
 }
@@ -129,6 +132,7 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
+  border-radius: 5%;
 }
 
 /* Features Section */
